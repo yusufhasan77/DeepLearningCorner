@@ -7,6 +7,7 @@ The repository is still a work in progress.
 
 ## Contents
 ===========
+
 The repository will have following implementations :-
 
 1. A fully connected feed forward neural network for classification of fashion mnist dataset
